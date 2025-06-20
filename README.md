@@ -18,5 +18,5 @@ python main.py
 - MNIST 数据集通过 `torchvision.datasets.MNIST` 自动下载。
 
 ## 输出图表
-- 准确率与损失曲线图：`accuracy_loss_chart.png`
-- 混淆矩阵图：`confusion_matrix.png`
+- 准确率与损失曲线图：`accuracy_loss_chart000.png`
+- 混淆矩阵图：`confusion_matrix000.png`
